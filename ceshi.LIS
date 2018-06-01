@@ -1,0 +1,7 @@
+
+ LIST ELEMENT SURFACE LOAD PRES FOR ALL SELECTED ELEMENTS
+
+
+ ELEMENT  LKEY     FACE NODES     REAL       IMAGINARY   IOFFST      JOFFST
+      2     1                  1.000      0.0000      0.0000      0.0000                   
+                                1.000      0.0000    
